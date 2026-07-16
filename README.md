@@ -1,6 +1,6 @@
 # Linking Restoration Works and Projects to Subspaces of Aachen Cathedral
 
-![images/aachen_dom_spatial-contianers_derived-from-pcd](aachen_dom_spatial-contianers_derived-from-pcd.png)
+![](images/aachen_dom_spatial-contianers_derived-from-pcd.png)
 
 ## Overview
 
